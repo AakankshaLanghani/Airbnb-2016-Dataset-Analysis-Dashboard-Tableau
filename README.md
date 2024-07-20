@@ -12,11 +12,11 @@ Helps in understanding the pricing trends across different areas.
 Shows the distribution of prices of Airbnb listings across different zip codes.
 Provides insights into the range and variability of prices in various areas.
 
-**4. Revenue Analysis for the Year**
+**3. Revenue Analysis for the Year**
 Analyzes the total revenue generated from Airbnb listings over the course of the year.
 Highlights peak periods and revenue trends over time.
 
-**6. Distinct Count of Bedroom Listings**
+**4. Distinct Count of Bedroom Listings**
 Displays the number of unique listings based on the number of bedrooms available.
 Offers an overview of the variety of listing sizes available in the dataset.
 
